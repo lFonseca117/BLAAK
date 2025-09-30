@@ -1,0 +1,13 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Ejemplo con opciones de empleado",
+  "scripts": {
+    "build": "tsc",
+    "start": "live-server --open=./index.html"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "live-server": "^1.2.2"
+  }
+}
