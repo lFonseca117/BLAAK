@@ -1,5 +1,5 @@
-export function getNuevoEmpleadoForm(): string {
-  return `
+export function getNuevoEmpleadoForm() {
+    return `
     <h2>Formulario - Nuevo empleado</h2>
     <form id="formNuevoEmpleado">
       <label for="nombre">Nombre completo:</label><br>

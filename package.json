@@ -1,7 +1,7 @@
 {
-  "name": "blaak",
+  "name": "mi-proyecto",
   "version": "1.0.0",
-  "description": "Proyecto B L A A K con formularios para empleados",
+  "description": "Ejemplo con opciones de empleado",
   "scripts": {
     "build": "tsc",
     "start": "live-server --open=./index.html"
