@@ -1,0 +1,14 @@
+
+```ts 
+Para ejecutar 
+instalar nodes (NO SUBIRLOS)
+npm install
+Lo siguiente es correr el ts que es con
+npm run build
+y por ultimo dar
+npm start
+
+En ese orden si se omite en run build no funcionara
+si se hizo bien abre una pagina web
+
+```
