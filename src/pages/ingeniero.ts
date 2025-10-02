@@ -184,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
     <div>
       <button id="btnContratar">Contratar nuevo empleado</button>
       <button id="btnRegistrarExistente">Registrar (ya empleado)</button>
-      <button id="btnDespedir">Despedir empleado</button>
+      <button id="btnDespedir">Despedir un empleado</button>
       <button id="btnInforme">Ver informe</button>
     </div>
     <div id="resultado" style="margin-top:15px;"></div>
