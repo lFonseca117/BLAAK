@@ -9,7 +9,7 @@ class Administrador {
         this.nombre = nombre;
         this.empleados = [];
         this.tareas = [];
- 
+    }
     // Empleados
     registrarEmpleado(nombre: string, cargo: string) {
         this.empleados.push({ nombre, cargo });
@@ -55,3 +55,4 @@ class Administrador {
 }
 
 export { Administrador };
+    
